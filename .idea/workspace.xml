@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ce2a3085-d2e6-4295-af16-7d3dc3295afa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="SQLite - database.sqlite" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="SQLite - database.sqlite" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="SQLite - database.sqlite" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="main: schema" type="981a47c2:SqliteImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="28Iz7suy1lxfeLeG53BwYMckedC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlite" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/database/scripts" />
+      <recent name="$PROJECT_DIR$/database" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce2a3085-d2e6-4295-af16-7d3dc3295afa" name="Default Changelist" comment="" />
+      <created>1650918723995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650918723995</updated>
+      <workItem from="1650918725177" duration="1993000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="551" y="156" width="804" height="667" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1650919962316">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="551" y="156" width="804" height="667" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1650919962316" />
+    <state x="734" y="229" width="428" height="474" key="FileChooserDialogImpl" timestamp="1650919961266">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="734" y="229" width="428" height="474" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1650919961266" />
+    <state width="224" height="456" key="HiddenNamespacesPopup" timestamp="1650919200294">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="224" height="456" key="HiddenNamespacesPopup/0.0.1920.1080@0.0.1920.1080" timestamp="1650919200294" />
+    <state x="777" y="313" width="351" height="352" key="NewPhpClassDialog" timestamp="1650920072848">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="777" y="313" width="351" height="352" key="NewPhpClassDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1650920072848" />
+    <state x="827" y="388" width="342" height="239" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1650919917050">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="827" y="388" width="342" height="239" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1080@0.0.1920.1080" timestamp="1650919917050" />
+  </component>
+</project>
